@@ -73,6 +73,7 @@
     <Compile Include="Tests\ErrorHandlingBehaviours.cs" />
     <Compile Include="Tests\AssociatedEntityBehaviours.cs" />
     <Compile Include="Tests\AddAggregateBehaviours.cs" />
+    <Compile Include="Tests\SimpleBehaviours.cs" />
     <Compile Include="Tests\ThirdTierBehaviours.cs" />
     <Compile Include="Tests\MiscBehaviours.cs" />
     <Compile Include="Tests\AttachedBehaviours.cs" />
